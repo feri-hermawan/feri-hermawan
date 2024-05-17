@@ -1,7 +1,7 @@
 ### Hello my name is Feri
 
 - 🌱 I’m currently learning TypeScript and Go
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feri-hermawan)]
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feri-hermawan)](https://github.com/feri-hermawan/)
 <!--
 **feri-hermawan/feri-hermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
