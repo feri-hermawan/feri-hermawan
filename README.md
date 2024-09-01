@@ -1,6 +1,6 @@
 ### Hello my name is Feri
 
-- 🌱 I’m currently learning TypeScript and Go
+- 🌱 I’m currently learning Java
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feri-hermawan)](https://github.com/feri-hermawan/)
